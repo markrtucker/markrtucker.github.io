@@ -8,3 +8,4 @@
 - Explore golang wasm - database structure
 - Writing games in golang? Ball bouncer...
 - Broadway shows
+- Restaurant reviews
