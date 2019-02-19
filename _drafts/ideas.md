@@ -1,4 +1,7 @@
 - intro
+- add comments: 
+   - http://sgeos.github.io/jekyll/disqus/2016/02/15/adding-disqus-to-a-jekyll-blog.html
+   - https://60devs.com/adding-comments-to-your-jekyll-blog.html
 - quick book reviews
 - twitter who to follow
 - Golang intro - how to learn
