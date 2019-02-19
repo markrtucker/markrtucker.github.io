@@ -6,11 +6,11 @@ categories: [about]
 
 ## A brief history of me
 
-Who am I? Why should you care? I frequently describe myself as a second-generation computer geek. Both of my parents have electrical engineering degrees. (My mom, as a female engineering student in the 60's, had a unique experience - but that's not my story.) I grew up surrounded by various [Heathkit](https://en.wikipedia.org/wiki/Heathkit) projects - and even built a few of my own.
+I am a second-generation computer geek. Both of my parents have electrical engineering degrees. (My mom, as a female engineering student in the 60's, had a unique experience - but that's not my story.) I grew up surrounded by [Heathkit](https://en.wikipedia.org/wiki/Heathkit) projects - and built a few of my own.
 
-My first computing experience was with a [Heathkit H89](http://oldcomputers.net/heathkit-h89.html). Since I was only 6 or 7 years old at the time, I was initially only interested in playing games. But within a couple of years, I became deeply interested in creating my own games. I taught myself [Basic](http://sebhc.lesbird.com/documentation/software/HDOS-2/HDOS_Reference_Chapter6.pdf) by borrowing books from the public library and typing in the programs, eventually writing a few original programs. Throughout high school, I got away from programming, but ended up majoring in Computer Science in college. I started my first "real" job in the software industry in the mid-90's, just before the dot-com bubble.
+My first computing experience was with a [Heathkit H89](http://oldcomputers.net/heathkit-h89.html). Since I was only 6 or 7 years old at the time my parents assembled this, I was initially only interested in playing games. But within a couple of years, I became deeply interested in creating my own games. I taught myself [Basic](http://sebhc.lesbird.com/documentation/software/HDOS-2/HDOS_Reference_Chapter6.pdf) by borrowing books from the public library and typing in the programs, eventually writing a few original programs. During high school, I got away from programming, but ended up majoring in Computer Science in college. I started my first "real" job in the software industry in the mid-90's, just before the dot-com bubble.
 
-I've worked across several industries in my 25+ year career - industrial process control, enterprise OLTP-like systems, and artificial intelligence. After a 3-year trek into management, I'm now back into coding and I am currently the architect and lead engineer for the IBM Watson Visual Recognition service. To be clear - anything I publish here is my own opinion and not an official statement from IBM.
+I've worked across several industries in my 25+ year career - industrial process control, enterprise OLTP-like systems, and artificial intelligence. After a 3-year trek into management, I'm now back into coding and I am currently the architect and lead engineer for the IBM Watson Visual Recognition service. (Standard disclaimers apply - anything I publish here is my own opinion and not an official statement from IBM.)
 
 Outside of work, I am a husband, father, and taekwondo athlete. I am lucky enough to be married to an amazing woman. She challenges me, teaches me, and amazes me. Every. Damn. Day. My life changed dramatically when our twins were born in 2001. Watching these two develop from black-and-white blobs on an ultrasound into nearly-full-grown almost-adults is fascinating. 
 
@@ -24,6 +24,6 @@ I don't have a fixed set of writing topics. I would like to explore the software
 
 ## Closing thoughts
 
-I'm new to this whole blogging things. I'd like to get a comments section set up, but that will be heavily moderated. I don't have the energy to deal with spam/trolling/etc. 
+I'm new to this whole blogging things. I'd like to get a comments section set up. That will be a project for another day. 
 
-In the meantime, I hope you find this blog useful! TODO: how to reach out??
+In the meantime, I hope you find this blog useful! Feel free to reach out to me here on Github, or via [LinkedIn](https://www.linkedin.com/in/mark-tucker-12799015/).
