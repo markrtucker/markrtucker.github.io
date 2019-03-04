@@ -1,6 +1,4 @@
-Mark Tucker
-November 18, 2018
-First Dan Black Belt Test
+I wrote this short essay as part of my test for my Taekwondo First Dan (Black Belt) in November, 2018. I've done some reformatting and some light editing to the original to make it fit a bit better in a blog format.
 
 "A journey of a thousand miles begins with a single step" 
 -- Laozi
