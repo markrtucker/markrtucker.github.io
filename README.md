@@ -1,4 +1,4 @@
-Live blog link: markrtucker.github.io
+Live blog link: https://markrtucker.github.io
 
 
 
